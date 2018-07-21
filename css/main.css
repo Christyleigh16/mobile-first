@@ -1,0 +1,15 @@
+.box {
+    height: 200px;
+    width: 200px;
+    border:1px solid #000000;
+    display:inline-block;
+
+}
+.column
+@media (min width:992px;){
+    width:30%;
+    margin:10px;
+}
+@media (max width:992px;){
+    width:100%;
+}
